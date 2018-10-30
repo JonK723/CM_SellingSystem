@@ -1,0 +1,72 @@
+<div class="row row-padding">
+  <div class="text-center">
+    <h3 style="color: #B07760; margin-bottom: 0;">
+      Add Charms From Our Latest Collections
+    </h3>
+  </div>
+  <br>
+  <div class="row">
+    <div style="margin-left: 100px;">
+      <div class="col-sm-11">
+        <div class="row text-center">
+          <div dir-paginate="brand in brandLists | itemsPerPage: 8" class="col-sm-3 img-responsive" style="margin-bottom: 15px;">
+            <a ng-href="{{ brand.url }}">
+              <img ng-src="{{ brand.image }}">
+            </a>
+          </div>
+
+          <!--
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Brand-JS" style="display: inline-block"><img src="images/openHeartsLogo.jpg"></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Glass" style="display: inline-block"><img src="images/muranoLogo.jpg"></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Timebeads" style="display: inline-block"><img src="images/timebeadsLogo.jpg"></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Bridal" style="display: inline-block"><img src="images/bridalLogo.jpg"></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Armed Forces" style="display: inline-block"><img src="images/armedForcesLogo.jpg"></a>
+          </div>
+        </div>
+        <br>
+        <div class="row">
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/disney" style="display: inline-block"><img src="images/disneyLogo.jpg" ></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Crystal" style="display: inline-block"><img src="images/crystalCharmLogo.jpg"></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Brand-MC" style="display: inline-block"><img src="images/motherChildLogo.jpg"></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/NFL" style="display: inline-block"><img src="images/nflLogo.jpg"></a>
+          </div>
+
+          <div class="col-sm-2" style="margin: 0 15px 0 15px;">
+            <a ng-href="#/select-charms/Collegiate" style="display: inline-block"><img src="images/collegiateLogo.jpg"></a>
+          </div>
+        -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <br>
+
+  <div class="row footer text-center">
+    <dir-pagination-controls max-size="5"></dir-pagination-controls>
+  </div>
+
+</div>

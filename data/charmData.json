@@ -1,0 +1,3666 @@
+[
+  {
+    "SKU":"811468901",
+    "Theme":"Animals",
+    "Style":"SMX017451SM1",
+    "Description":"Frog ",
+    "Retail":"34.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812688404",
+    "Theme":"Animals",
+    "Style":"SMX018985SM1",
+    "Description":"Elephant ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812689507",
+    "Theme":"Animals",
+    "Style":"SMX019872S",
+    "Description":"Love Birds ",
+    "Retail":"44.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"811339908",
+    "Theme":"Animals",
+    "Style":"SMX0535SM1",
+    "Description":"TURTLE CRYSTAL CHARM",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811450105",
+    "Theme":"Animals & Glass",
+    "Style":"SMX009984SM3",
+    "Description":"Murano Glass Bead w/ Purple Butterflys",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811462605",
+    "Theme":"Animals",
+    "Style":"SMX015181S",
+    "Description":"Dolphin Slider Charm ",
+    "Retail":"29.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811451602",
+    "Theme":"Animals",
+    "Style":"SMX013409SM1",
+    "Description":"Owl w/ Swarovski ",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811469206",
+    "Theme":"Animals",
+    "Style":"SMX015184SM1",
+    "Description":"Penguin Charm ",
+    "Retail":"49.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"813398207",
+    "Theme":"Precious Pet",
+    "Style":"SMX025129S",
+    "Description":"Dog Charm",
+    "Retail":"39.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812776401",
+    "Theme":"Precious Pet",
+    "Style":"SMX020613S",
+    "Description":"Dog Mom Charm ",
+    "Retail":"34.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813398702",
+    "Theme":"Precious Pet",
+    "Style":"SMX026094S",
+    "Description":"I love my dog ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811381704",
+    "Theme":"Precious Pet",
+    "Style":"SMP4290SCY",
+    "Description":"CRYST ANMALPAW&LOVEKNOT BEAD",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811289103",
+    "Theme":"Precious Pet",
+    "Style":"SMX0160S",
+    "Description":"CM SV DOG CHARM",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811462504",
+    "Theme":"Precious Pet & Glass",
+    "Style":"SMX017112SM1",
+    "Description":"Paw Print Murano ",
+    "Retail":"29.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811450802",
+    "Theme":"Precious Pet",
+    "Style":"SRL0891TOP",
+    "Description":"Heart Locket w/ Black enamel Paw Prints",
+    "Retail":"49.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811450408",
+    "Theme":"Precious Pet",
+    "Style":"SMX012188SM1",
+    "Description":"Swarovski Cat outline Bead ",
+    "Retail":"49.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811450509",
+    "Theme":"Precious Pet",
+    "Style":"SMX012187SM1",
+    "Description":"Swarovski Dog outline Bead ",
+    "Retail":"49.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811451501",
+    "Theme":"Precious Pet",
+    "Style":"SMP013459SM1",
+    "Description":"3-piece dangle dog theme",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"813398409",
+    "Theme":"Armed Forces ",
+    "Style":"LTS1215TOP",
+    "Description":"Airforce",
+    "Retail":"59.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812688303",
+    "Theme":"Armed Forces ",
+    "Style":"LTS1067TOP ",
+    "Description":"Navy",
+    "Retail":"59.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"811479409",
+    "Theme":"Armed Forces ",
+    "Style":"LTS1098TOP",
+    "Description":"Marines",
+    "Retail":"59.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"811479308",
+    "Theme":"Armed Forces ",
+    "Style":"LTS1097TOP",
+    "Description":"Coast Guard ",
+    "Retail":"59.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"811477900",
+    "Theme":"Armed Forces ",
+    "Style":"LTS1059TOP",
+    "Description":"TSVCM ENML USA DNG LCKT CHM",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"507165102",
+    "Theme":"Armed Forces ",
+    "Style":"SMX017783S",
+    "Description":"SVCM ENML USA STAR BEAD",
+    "Retail":"69.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811385602",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM12",
+    "Description":"DARK RED CRYSTAL SPACER-Jan",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811376007",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM5",
+    "Description":"PURPLE CRYSTL SPACER BEAD-Feb",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811375803",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM3",
+    "Description":" LIGHT BLUE CRYSTL SPCR BEAD-March",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811360902",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM1",
+    "Description":"CLEAR CRYSTAL SPACER CHARM-April",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811376300",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM8",
+    "Description":" GREEN CRYSTAL SPACER BEAD-May",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811385703",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM13",
+    "Description":"MOONSTONE SPACER-June",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811376401",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM9",
+    "Description":"SIAM SWAROVSKI SPACER BEAD-July",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811376108",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM6",
+    "Description":" LIGHT GREEN CRYSTL SPACER-Aug",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811376209",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM7",
+    "Description":"CAPRIBLUE CRYSTL SPACR BEAD-Sept",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811375904",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM4",
+    "Description":"ROSE CRYSTAL SPACER BEAD-Oct",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811385804",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM10",
+    "Description":"ORANGE CRYSTAL SPACER-Nov",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811385905",
+    "Theme":"Birthstones ",
+    "Style":"SMX0708SM11",
+    "Description":"LIGHT BLUE CRYSTAL SPACER-Dec",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812776108",
+    "Theme":"Brand-Disney",
+    "Style":"SMX020623SM1",
+    "Description":"Mickey Pink Enamel Spacer ",
+    "Retail":"34.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399805",
+    "Theme":"Brand-Disney",
+    "Style":"SMP025845SOX",
+    "Description":"Mickey ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813398601",
+    "Theme":"Brand-Disney",
+    "Style":"SMP025846SMX",
+    "Description":"Minnie w/ crystal ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812690802",
+    "Theme":"Brand-Disney",
+    "Style":"smx020623sm2",
+    "Description":"Mickey Spacer ",
+    "Retail":"34.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811425002",
+    "Theme":"Brand-Disney",
+    "Style":"SMX003620S",
+    "Description":"MNNIEMOUSE FACE ENML BD",
+    "Retail":"89.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811424807",
+    "Theme":"Brand-Disney",
+    "Style":"SMP003600S",
+    "Description":"MCKYMOUSE ENML DNGLBD",
+    "Retail":"89.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811425204",
+    "Theme":"Brand-Disney",
+    "Style":"SMP003623S",
+    "Description":"CLASSC MNNEMOUSE DNGLBD",
+    "Retail":"89.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811449406",
+    "Theme":"Brand-Disney",
+    "Style":"SMP010548SCY",
+    "Description":"Disney Princess Crown Dangle ",
+    "Retail":"89.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811429303",
+    "Theme":"Brand-Disney",
+    "Style":"SMP007353SM1",
+    "Description":"DANGLE SHOE W/CRYSTAL AB",
+    "Retail":"79.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811429404",
+    "Theme":"Brand-Disney",
+    "Style":"SMX008010SCY",
+    "Description":"DISNEY CARRIAGE W/CLEAR CRYSTAL",
+    "Retail":"69.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811429606",
+    "Theme":"Brand-Disney",
+    "Style":"SMP008993SM3",
+    "Description":"Facted crystl dngl mickey ear- blk/wht",
+    "Retail":"99.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811430901",
+    "Theme":"Brand-Disney",
+    "Style":"SMP008627S",
+    "Description":"DNGL TINKER BELL BEAD W/ENAMEL",
+    "Retail":"79.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811457100",
+    "Theme":"Brand-Disney",
+    "Style":"SMP013631SCY",
+    "Description":"Silver crystal/enamel Mickey heart-",
+    "Retail":"99.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811465501",
+    "Theme":"Brand-Disney",
+    "Style":"SMP015358SM1",
+    "Description":"DNGL ENML LOVE W/MICKEY",
+    "Retail":"79.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811462908",
+    "Theme":"Brand-Disney",
+    "Style":"SMX015126S",
+    "Description":"Cinderella's Castle ",
+    "Retail":"44.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811463001",
+    "Theme":"Brand-Disney",
+    "Style":"SMX016368SM2",
+    "Description":"Mickey Mouse Crystal Face w/ Red Enamel Spinner",
+    "Retail":"79.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"813395706",
+    "Theme":"Brand-Disney",
+    "Style":"SMX025649SM2",
+    "Description":"Let it Go' Murano",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399603",
+    "Theme":"Brand-Disney",
+    "Style":"SMP020628SCY",
+    "Description":"Ana's Ice Skate Dangle w/ Crystal",
+    "Retail":"59.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813395807",
+    "Theme":"Brand-Disney",
+    "Style":"SMX017924SM1",
+    "Description":"Aquamarine bead w/ Snowflakes",
+    "Retail":"24.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811480007",
+    "Theme":"Brand-Disney",
+    "Style":"SMP018071SM1",
+    "Description":"Let it Go w/ crystal snowflake dangle",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Brand-Disney",
+    "Style":"TBD",
+    "Description":"Worth melting for' hidden message dangle",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812692008",
+    "Theme":"Brand- Disney ",
+    "Style":"smx020968s",
+    "Description":"Olaf Slider ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811477001",
+    "Theme":"Brand-Disney",
+    "Style":"SMP017461S",
+    "Description":"SVCMDSNFRZN  SIS4EVR 2PART HRTBD",
+    "Retail":"89.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811477405",
+    "Theme":"Brand-Disney",
+    "Style":"SMP017853SM1",
+    "Description":"SVCMDSNFRZN BLUGLS&SNWFLK DROPBD",
+    "Retail":"69.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811477304",
+    "Theme":"Brand-Disney",
+    "Style":"SMP017792SM1",
+    "Description":"SVCMDSNFRZN CRYST SNWFLK DNGL BD",
+    "Retail":"79.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811477203",
+    "Theme":"Brand-Disney",
+    "Style":"SMX017498SM1",
+    "Description":"SVCMDSNFRZN WHTSUGRMUR LETITGOBD",
+    "Retail":"24.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811477102",
+    "Theme":"Brand-Disney",
+    "Style":"SMX017498SM2",
+    "Description":"SVCMDSNFRZN BLUSUGRMUR LETITGOBD",
+    "Retail":"24.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811477809",
+    "Theme":"Brand-Disney",
+    "Style":"SMP017937SM1",
+    "Description":"SVCMDSN FRZN SNWFLK DNGL DISC BD",
+    "Retail":"69.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811477708",
+    "Theme":"Brand-Disney",
+    "Style":"SMP017946S",
+    "Description":"SVCM DSN FRZN OLAF DNGL COIN BD",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811476605",
+    "Theme":"Brand-Disney",
+    "Style":"LTS1060D2TOP",
+    "Description":"SVCMDSNFRZN DIAACT SNWFLK LCKTBD",
+    "Retail":"99.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811476504",
+    "Theme":"Brand-Disney",
+    "Style":"LTS1091TOP",
+    "Description":"SVCMDSN FRZN OLAF LCKT DNGL BD",
+    "Retail":"89.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811476807",
+    "Theme":"Brand-Disney",
+    "Style":"SMX017845SM1",
+    "Description":"SVCMDSN FRZN FLLW YR HRT CRYS BD",
+    "Retail":"39.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811476706",
+    "Theme":"Brand-Disney",
+    "Style":"SMX017796SCY",
+    "Description":"SVCMDSNFRZN HRT TRUELOVE CRYS BD",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811476908",
+    "Theme":"Brand-Disney",
+    "Style":"SMX017846SM1",
+    "Description":"SVCMDSNFRZN HRTSISTRS4EVR CRYSBD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811431004",
+    "Theme":"Brand-Disney",
+    "Style":"SMP008730S",
+    "Description":"DANGLE TINKER BELL silver w/ crystals",
+    "Retail":"69.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"812777908",
+    "Theme":"Brand-JS",
+    "Style":"SMX017108SM3",
+    "Description":"Iconic Sea Green Murano ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Brand-JS",
+    "Style":"TBD",
+    "Description":"Open Hearts Heart Dangle Charm ",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812688909",
+    "Theme":"Brand-JS",
+    "Style":"SMX018922SM1",
+    "Description":"Crystal Open Heart Slider ",
+    "Retail":"44.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812690004",
+    "Theme":"Brand-JS",
+    "Style":"SMP017414SM1",
+    "Description":"Mom Open Heart Dangle ",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811312406",
+    "Theme":"Brand-JS",
+    "Style":"SMX0286SM3",
+    "Description":"OPEN HRT CRYSTAL CHARM",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811312305",
+    "Theme":"Brand-JS",
+    "Style":"SMX0286SM2",
+    "Description":"OPENHRT PNK CRYSTL CHARM",
+    "Retail":"59.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811312507",
+    "Theme":"Brand-JS",
+    "Style":"SMX0286SM4",
+    "Description":"OPENHRT BLUCRYSTL CHARM",
+    "Retail":"59.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811312800",
+    "Theme":"Brand-JS",
+    "Style":"SMX0289S",
+    "Description":"OPENHRT ANGEL CHARM",
+    "Retail":"39.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811312901",
+    "Theme":"Brand-JS",
+    "Style":"SMX0290SM1",
+    "Description":"OPNHRT CRYSTL ANGELCHARM",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811458304",
+    "Theme":"Brand-JS",
+    "Style":"SMP000359SCY",
+    "Description":"CRYSTL FAMILY DNGL BEAD",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811312709",
+    "Theme":"Brand-JS",
+    "Style":"SMX0288S",
+    "Description":"WHITE ENML OPNHRT CHARM",
+    "Retail":"49.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811435801",
+    "Theme":"Brand-JS",
+    "Style":"SMP008713SCYRL",
+    "Description":"JS 2pc Breakapart Heart & Crystal",
+    "Retail":"79.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811464104",
+    "Theme":"Brand-JS",
+    "Style":"SMX017108SM2",
+    "Description":"JS MURANO GLASS BEAD RED",
+    "Retail":"29.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811451703",
+    "Theme":"Brand-JS",
+    "Style":"SMP009383CY",
+    "Description":"JS Butterfly w/ heart topper",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811451804",
+    "Theme":"Brand-JS",
+    "Style":"SMP013452SCY",
+    "Description":"JS Family w/ enamel dog paw",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811314107",
+    "Theme":"Brand-M/C",
+    "Style":"SMX0232SM1",
+    "Description":"MOTHR&CHLD PNKCRYSTL CHARM",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812692705",
+    "Theme":"Brand-M/C",
+    "Style":"SMX013635SCY",
+    "Description":"Crystal Pave Mother & Child ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811314208",
+    "Theme":"Brand-M/C",
+    "Style":"SMX0232SM2",
+    "Description":"MOTHR&CHLD BLUCRYSTL CHARM",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811386008",
+    "Theme":"Brand-M/C",
+    "Style":"SMX1113SM1",
+    "Description":"MOTHER & CHILD PINK GLS CH",
+    "Retail":"39.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811386109",
+    "Theme":"Brand-M/C",
+    "Style":"SMX1113SM2",
+    "Description":"MOTHER & CHILD BLUE GLS CH",
+    "Retail":"39.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811469509",
+    "Theme":"Brand-M/C",
+    "Style":"SMP017459SCY",
+    "Description":"Mother&Child Interlinking Crystal",
+    "Retail":"49.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"813398308",
+    "Theme":"Bridal ",
+    "Style":"SRL1130TKYR-TOP",
+    "Description":"Wedding Rings locket w/ 10K gold",
+    "Retail":"69.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812775803",
+    "Theme":"Bridal ",
+    "Style":"SMX020915SCY",
+    "Description":"Forever Heart Charm w/ Crystal ",
+    "Retail":"34.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812689002",
+    "Theme":"Bridal ",
+    "Style":"SMX017402SCY",
+    "Description":"Bride Heart ",
+    "Retail":"34.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812689204",
+    "Theme":"Bridal ",
+    "Style":"SMX019958SM2",
+    "Description":"Wedding Cake ",
+    "Retail":"44.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812689305",
+    "Theme":"Bridal ",
+    "Style":"SMX019880SM1",
+    "Description":"Wedding Present ",
+    "Retail":"54.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812689608",
+    "Theme":"Bridal ",
+    "Style":"SMP020612S",
+    "Description":"Hidden Message Wedding Rings",
+    "Retail":"39.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812689507",
+    "Theme":"Bridal ",
+    "Style":"SMX019872S",
+    "Description":"Love Birds ",
+    "Retail":"44.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812713600",
+    "Theme":"Bridal ",
+    "Style":"SMX022148S",
+    "Description":"Our Honeymoon ",
+    "Retail":"34.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812750507",
+    "Theme":"Bridal ",
+    "Style":"SMX021421S",
+    "Description":"Maid of Honor Heart ",
+    "Retail":"34.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812750608",
+    "Theme":"Bridal ",
+    "Style":"SMX021422S",
+    "Description":"Bridesmaid Heart ",
+    "Retail":"34.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812799308",
+    "Theme":"Bridal ",
+    "Style":"SMX0647SCY",
+    "Description":"Engagement Ring w/ Crystal Charm ",
+    "Retail":"TBD",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812726406",
+    "Theme":"Bridal ",
+    "Style":"SMX021664SCZ",
+    "Description":"Filigree Cutout bead w/ CZ",
+    "Retail":"99.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"812750709",
+    "Theme":"Bridal ",
+    "Style":"SMX018620SM3",
+    "Description":"Flower bead w/ white enamel and crystal",
+    "Retail":"59.99",
+    "Spring 2015":"Bridal"
+  },
+  {
+    "SKU":"811387505",
+    "Theme":"Bridal",
+    "Style":"SMX1170S",
+    "Description":"WEDDING RINGS HEART CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811464003",
+    "Theme":"Bridal/Love",
+    "Style":"SMX015220SM1",
+    "Description":"WHITE ENAMEL LOCK W/TALK (FOREVER) RHD",
+    "Retail":"54.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811409705",
+    "Theme":"Bridal",
+    "Style":"SMP002182S",
+    "Description":"Mrs. Dangle Charm ",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811314400",
+    "Theme":"Cause & Awareness",
+    "Style":"SMX0297SM1",
+    "Description":"RIBBON PINK CRYSTAL CHARM",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811358100",
+    "Theme":"Charity ",
+    "Style":"SMP3134S",
+    "Description":"ST. JUDE DANGLE CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811358201",
+    "Theme":"Charity ",
+    "Style":"SMX0614S",
+    "Description":" ST. JUDE CUBE CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811442401",
+    "Theme":"Collegiate ",
+    "Style":"SMP009665S",
+    "Description":"University of Alabama Dangle",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443009",
+    "Theme":"Collegiate ",
+    "Style":"SMP009671S",
+    "Description":"Arkansas Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443100",
+    "Theme":"Collegiate ",
+    "Style":"SMP009672S",
+    "Description":"Auburn University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811442906",
+    "Theme":"Collegiate ",
+    "Style":"SMP009670S",
+    "Description":"Clemson University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"812450803",
+    "Theme":"Collegiate ",
+    "Style":"SMP021206S",
+    "Description":"Florida University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443605",
+    "Theme":"Collegiate ",
+    "Style":"SMP009677S",
+    "Description":"Georgia University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811442502",
+    "Theme":"Collegiate ",
+    "Style":"SMP009666S",
+    "Description":"University of Kentucky Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811442603",
+    "Theme":"Collegiate ",
+    "Style":"SMP009667S",
+    "Description":"Louisana State University Dangle  ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443403",
+    "Theme":"Collegiate ",
+    "Style":"SMP009675S",
+    "Description":"Nebraska University Dangle  ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443807",
+    "Theme":"Collegiate ",
+    "Style":"SMP010290S",
+    "Description":"Ohio State University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811442300",
+    "Theme":"Collegiate ",
+    "Style":"SMP009664S",
+    "Description":"Oklahoma University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443201",
+    "Theme":"Collegiate ",
+    "Style":"SMP009673S",
+    "Description":"Penn State University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811442704",
+    "Theme":"Collegiate ",
+    "Style":"SMP009668S",
+    "Description":"South Carolina University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443302",
+    "Theme":"Collegiate ",
+    "Style":"SMP009674S",
+    "Description":"Texas A&M University Dangle  ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811442805",
+    "Theme":"Collegiate ",
+    "Style":"SMP009669S",
+    "Description":"Texas University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811444203",
+    "Theme":"Collegiate ",
+    "Style":"SMP010537S",
+    "Description":"Michigan University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811444102",
+    "Theme":"Collegiate ",
+    "Style":"SMP010539S",
+    "Description":"University of North Carolina Dangle  ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443706",
+    "Theme":"Collegiate ",
+    "Style":"SMP010540S",
+    "Description":"University of South Carolina Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811453202",
+    "Theme":"Collegiate ",
+    "Style":"smp013318s",
+    "Description":"Florida State University Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811453606",
+    "Theme":"Collegiate ",
+    "Style":"smp013326s",
+    "Description":"University of Kansas Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811453101",
+    "Theme":"Collegiate ",
+    "Style":"smp013316s",
+    "Description":"University of West Virgina Dangle",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811453000",
+    "Theme":"Collegiate ",
+    "Style":"smp013314s",
+    "Description":"University of Virgina Dangle",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811453303",
+    "Theme":"Collegiate ",
+    "Style":"smp013320s",
+    "Description":"Virgina Tech Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811453505",
+    "Theme":"Collegiate ",
+    "Style":"smp013324s",
+    "Description":"UCLA Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811444001",
+    "Theme":"Collegiate ",
+    "Style":"SMP010538S",
+    "Description":"University of Wisconsin Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811443908",
+    "Theme":"Collegiate ",
+    "Style":"SMP011349S",
+    "Description":"University of Notre Dame Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811478205",
+    "Theme":"Collegiate ",
+    "Style":"SMP018085S",
+    "Description":"University of Missouri Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811478003",
+    "Theme":"Collegiate ",
+    "Style":"SMP017801S",
+    "Description":"University of Tennessee Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811478104",
+    "Theme":"Collegiate ",
+    "Style":"SMP017799S",
+    "Description":"University of Connecticut Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811478306",
+    "Theme":"Collegiate ",
+    "Style":"SMP018087S",
+    "Description":"Michigan State Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811570302",
+    "Theme":"Collegiate ",
+    "Style":"SMP019386S",
+    "Description":"Oregon ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811357401",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM27",
+    "Description":"BLUE/WHITE CRYSTAL CHARM",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811334907",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM25",
+    "Description":"TURQUOISE COLOR CRYSTL BD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811365509",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM29",
+    "Description":"ROYAL BLUE CRYSTAL CHARM",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811299205",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM15",
+    "Description":"DARKPURP CRYSTAL BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811297807",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM1",
+    "Description":"LILAC&WHT CRYSTAL BD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811298607",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM9",
+    "Description":"WHITE CRYSTAL BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811382100",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM36",
+    "Description":"IRDESCENT CRYST SPINNR BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811298809",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM11",
+    "Description":"ORANGE CRYSTAL BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811297908",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM2",
+    "Description":"RED CRYSTAL BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811298102",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM4",
+    "Description":"LIGHT PINK CRYSTAL BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811298405",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM7",
+    "Description":"LIGHTGREEN CRYSTAL BD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811365408",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM30",
+    "Description":"EMERALD GREEN CRYSTAL CHARM",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811299003",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM13",
+    "Description":"LIGHT BLUE CRYSTAL BD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811298900",
+    "Theme":"Crystal",
+    "Style":"SMX0137SM12",
+    "Description":"BLUE CRYSTAL BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811406507",
+    "Theme":"Crystals",
+    "Style":"SMX0137SM41",
+    "Description":"TCMSV/BLK RESIN&WHT CRYSTAL BEAD",
+    "Retail":"54.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811434606",
+    "Theme":"Crystals",
+    "Style":"SMX0137SM40",
+    "Description":"ROSE & CRYSOLITE Swar Crystal",
+    "Retail":"54.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811434707",
+    "Theme":"Crystals",
+    "Style":"SMX0137SM39",
+    "Description":"AB & AQUA Swar Crystal",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811435407",
+    "Theme":"Crystals",
+    "Style":"SMX0137SM43",
+    "Description":"Siam/Clear/Emerald Swar Crystal",
+    "Retail":"54.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811435508",
+    "Theme":"Crystals",
+    "Style":"SMX0137SM42",
+    "Description":"Siam/Clear Swar Crystal",
+    "Retail":"54.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811418007",
+    "Theme":"Dec Non-Stone",
+    "Style":"SMX003268SM3",
+    "Description":"TCMSV SWAROVSKI PEARL BEAD",
+    "Retail":"39.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811361106",
+    "Theme":"Dec. Non Stone",
+    "Style":"SMX0705S",
+    "Description":" LASER CUT CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811455207",
+    "Theme":"Dec. Non Stone",
+    "Style":"SMX013646S",
+    "Description":"Silver infinity spacer charm - FROM WEB",
+    "Retail":"19.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811304207",
+    "Theme":"Dec. Non Stone",
+    "Style":"SMX0154S",
+    "Description":"RIBBED SPACER CHARM",
+    "Retail":"19.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"813398803",
+    "Theme":"Dec. Non Stone",
+    "Style":"SMX025819SOX",
+    "Description":"Leaf Spacer ",
+    "Retail":"19.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813398106",
+    "Theme":"Dec. Non Stone",
+    "Style":"SMX025130S",
+    "Description":"Love Knot Bead ",
+    "Retail":"39.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813396203",
+    "Theme":"Decorative Stone",
+    "Style":"TBD",
+    "Description":"Red 3 Layer Multi Shape CZ Bead ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813396304",
+    "Theme":"Decorative Stone",
+    "Style":"TBD",
+    "Description":"Blue 3 Layer Multi Shape CZ Bead ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813396405",
+    "Theme":"Decorative Stone",
+    "Style":"SMX019993SM4",
+    "Description":"Olive 3 Layer Multi Shape CZ Bead",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811417409",
+    "Theme":"Decorative Stone",
+    "Style":"SMX001157SM2",
+    "Description":"TCMSV BLU CRYS ALTERNTE BRDAL BD",
+    "Retail":"64.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811452402",
+    "Theme":"Decorative Stone ",
+    "Style":"smx013633sm3",
+    "Description":"Faceted CZ Spinner - Purple",
+    "Retail":"44.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812691804",
+    "Theme":"Decorative Stone ",
+    "Style":"SMX019993SM2",
+    "Description":"Clear CZ Spinner ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812691703",
+    "Theme":"Decorative Stone ",
+    "Style":"SMX019993SM1",
+    "Description":"Purple CZ Spinner ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812691905",
+    "Theme":"Decorative Stone ",
+    "Style":"SMX021161SM2",
+    "Description":"Blue CZ Spinner ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811373909",
+    "Theme":"Decorative Stone",
+    "Style":"SMX0932SM4",
+    "Description":"CRYSTL LOVE KNOT SPACER",
+    "Retail":"39.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811412600",
+    "Theme":"Decorative Stone",
+    "Style":"SMX003086SM8",
+    "Description":"GREEN  MURANOGLSS CRYSTL CNTR BD",
+    "Retail":"39.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"813396900",
+    "Theme":"Family ",
+    "Style":"SMP025110SM1",
+    "Description":"Life Tree w/ crystal",
+    "Retail":"79.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812778506",
+    "Theme":"Family ",
+    "Style":"SMX019858S",
+    "Description":"#1 Sis Cube Bead ",
+    "Retail":"54.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812776704",
+    "Theme":"Family ",
+    "Style":"SMX021708S",
+    "Description":"Godmother Charm ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813397205",
+    "Theme":"Family ",
+    "Style":"SMX019921Scy",
+    "Description":"Mom Heart with Crystal ",
+    "Retail":"44.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812778102",
+    "Theme":"Family ",
+    "Style":"SMP021653SCY",
+    "Description":"Mom Dangle Disc with Crystal ",
+    "Retail":"69.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813397003",
+    "Theme":"Family ",
+    "Style":"SMX023770SCY",
+    "Description":"Friends Forever Bead w/ crystal",
+    "Retail":"39.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399502",
+    "Theme":"Family ",
+    "Style":"SMP025813SOX",
+    "Description":"Baby Feet Cutout ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812690105",
+    "Theme":"Family ",
+    "Style":"SMP020631S",
+    "Description":"Best Grandma",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812689800",
+    "Theme":"Family ",
+    "Style":"SMP020631S",
+    "Description":"Mom Hidden Message",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812689901",
+    "Theme":"Family ",
+    "Style":"SMX019878SM1",
+    "Description":"Mom Heart Cube Charm ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812726305",
+    "Theme":"Family",
+    "Style":"SMX022363S",
+    "Description":"Family Charm ",
+    "Retail":"34.99",
+    "Spring 2015":"Retest"
+  },
+  {
+    "SKU":"811333703",
+    "Theme":"Family",
+    "Style":"SMX0541SM1",
+    "Description":" BABYCARRIAGE CRYSTAL CHARM",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811313600",
+    "Theme":"Family",
+    "Style":"SMX0282S",
+    "Description":"LITTLE GIRL CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811313701",
+    "Theme":"Family",
+    "Style":"SMX0283S",
+    "Description":"LITTLE BOY CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811311404",
+    "Theme":"Family",
+    "Style":"SMX0278S",
+    "Description":" BEST MOM HRT CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811311606",
+    "Theme":"Family",
+    "Style":"SMX0280S",
+    "Description":" NANA CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811381805",
+    "Theme":"Family",
+    "Style":"SMX1043S",
+    "Description":"HRT DADDY'S LITTLE GRL BEAD",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811420001",
+    "Theme":"Family",
+    "Style":"SMX003590S",
+    "Description":" #1 WIFE HEART CHARM BEAD",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811388608",
+    "Theme":"Family",
+    "Style":"SMP4623S",
+    "Description":"MOTHER & DAUGH HEART CHARM",
+    "Retail":"59.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811451006",
+    "Theme":"Family",
+    "Style":"smp013618sm2",
+    "Description":"Crystal MOM Dangle ",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811387606",
+    "Theme":"Family ",
+    "Style":"SMP4569S",
+    "Description":"Boy & Girl Dangle Charm ",
+    "Retail":"44.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811452008",
+    "Theme":"Flowers",
+    "Style":"SMX013446SM1",
+    "Description":"Flower w/ clear Swarovski and Pink Center",
+    "Retail":"59.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"813396001",
+    "Theme":"Glass",
+    "Style":"smx025651sm1",
+    "Description":"Multi Color Murano Glass Bead ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811386200",
+    "Theme":"Glass",
+    "Style":"SMX1111SM10",
+    "Description":"Neon Pink Glitter Murano Glass Bead ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812777009",
+    "Theme":"Glass",
+    "Style":"SMX019985SM3",
+    "Description":"Pink Murano Bead ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812777807",
+    "Theme":"Glass",
+    "Style":"SMX020005SM2",
+    "Description":"Anchor Murano Glass Bead ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813396102",
+    "Theme":"Glass",
+    "Style":"smx025682sm1",
+    "Description":"Multi Color Striped Murano Glass Bead",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812777100",
+    "Theme":"Glass",
+    "Style":"SMX019985SM7",
+    "Description":"Purple Murano Charm ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813395908",
+    "Theme":"Glass",
+    "Style":"SMX025681SM1",
+    "Description":"Black/White Checker Murano Glass Bead",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812691400",
+    "Theme":"Glass",
+    "Style":"SMX021726S",
+    "Description":"Striped Turquoise Murano Glass Bead",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811411305",
+    "Theme":"Glass",
+    "Style":"SMX003106SM4",
+    "Description":" HALF/HALF MURANO GLSS BD",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811370802",
+    "Theme":"Glass",
+    "Style":"SMX0950SM3",
+    "Description":"HOTPNK MURANOGLASS W/HRTS CH",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811283807",
+    "Theme":"Glass",
+    "Style":"SMX0201SM10",
+    "Description":"RUBY FROST MURANO CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811376805",
+    "Theme":"Glass",
+    "Style":"SMX0998SM5",
+    "Description":"PURPLE MURANO CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811383102",
+    "Theme":"Glass",
+    "Style":"SMX1114SM6",
+    "Description":"FUSCIA GLITTR MURANO GLS BD",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811286703",
+    "Theme":"Glass",
+    "Style":"SMX0206SM4",
+    "Description":"LEOPARD MURANO CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811435003",
+    "Theme":"Glass",
+    "Style":"SMX008642SM2",
+    "Description":"RED MURANO&SNOWFLAKES BD",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811359900",
+    "Theme":"Glass",
+    "Style":"SMP3540SM2",
+    "Description":"PINK MURANO HRT CHARMABLE",
+    "Retail":"19.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811359809",
+    "Theme":"Glass",
+    "Style":"SMP3540SM1",
+    "Description":"RED MURANO HRT CHARMABLE",
+    "Retail":"19.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811452301",
+    "Theme":"Glass",
+    "Style":"SMX013534SM2",
+    "Description":"Murano Glass Swirl Color - Purple/Pink",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811496708",
+    "Theme":"Hobbies/Sports",
+    "Style":"SMX018788SM1",
+    "Description":"SV CRYS COLRED PANTRS PALTT BD",
+    "Retail":"44.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811416306",
+    "Theme":"Hobbies/Sports",
+    "Style":"SMX0501S",
+    "Description":"ENML BASEBALL BEAD CHRM",
+    "Retail":"59.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811330505",
+    "Theme":"Hobbies/Sports",
+    "Style":"SMX0363S",
+    "Description":"SV MUSIC NOTE DANGLE BEAD",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811473901",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-A",
+    "Description":"Swarovski Initial A",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811474004",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-B",
+    "Description":"Swarovski Initial B",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811474105",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-C",
+    "Description":"Swarovski Initial C",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811474206",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-D",
+    "Description":"Swarovski Initial D",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811474307",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-E",
+    "Description":"Swarovski Initial E",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811474509",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-G",
+    "Description":"Swarovski Initial G",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811474600",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-H",
+    "Description":"Swarovski Initial H",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811474903",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-J",
+    "Description":"Swarovski Initial J",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811475007",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-K",
+    "Description":"Swarovski Initial K",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811475108",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-L",
+    "Description":"Swarovski Initial L",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811475209",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-M",
+    "Description":"Swarovski Initial M",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811475300",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-N",
+    "Description":"Swarovski Initial N",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811475502",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-P",
+    "Description":"Swarovski Initial P",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811464801",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-R",
+    "Description":"Swarovski Initial R",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"811475704",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-S",
+    "Description":"Swarovski Initial S",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811475805",
+    "Theme":"Initials ",
+    "Style":"SMX015149SCY-T",
+    "Description":"Swarovski Initial T",
+    "Retail":"39.99",
+    "Spring 2015":"Tier"
+  },
+  {
+    "SKU":"813398005",
+    "Theme":"Inspirational ",
+    "Style":"SMX025449S",
+    "Description":"Hope Bead w/ cutouts ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813397902",
+    "Theme":"Inspirational ",
+    "Style":"SMX025450S",
+    "Description":"Dream cutout bead",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811462100",
+    "Theme":"Inspirational",
+    "Style":"SMX015156S",
+    "Description":"Angel Wings Slider Charm",
+    "Retail":"29.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811349606",
+    "Theme":"Inspirational",
+    "Style":"SMX0599SM1",
+    "Description":"CRYSTAL CROSS CHARM",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812692604",
+    "Theme":"Inspirational ",
+    "Style":"SMP021668SCZ",
+    "Description":"Crystal Dangle Cross",
+    "Retail":"39.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811364001",
+    "Theme":"Inspirational",
+    "Style":"SMX0835S",
+    "Description":"FAITH HOPE CHARITY CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811341700",
+    "Theme":"Inspirational",
+    "Style":"SMX0533SM1",
+    "Description":"BIBLE CRYSTAL CHARM",
+    "Retail":"54.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811358403",
+    "Theme":"Inspirational",
+    "Style":"SMP3534S",
+    "Description":" ICHTHYS CHARMABLE",
+    "Retail":"19.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811469408",
+    "Theme":"Inspirational",
+    "Style":"SMK017415S",
+    "Description":"Praying hands dangle disc charm",
+    "Retail":"39.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811456906",
+    "Theme":"Inspirational ",
+    "Style":"SMK013627SCY",
+    "Description":"Silver Crystal 'Have Faith' Swing Charm - FROM WEB",
+    "Retail":"44.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811451107",
+    "Theme":"Inspirational",
+    "Style":"smp013636s",
+    "Description":"Dangle Footprints ",
+    "Retail":"34.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"813397508",
+    "Theme":"Lifestyles ",
+    "Style":"SMX025121SM1",
+    "Description":"Crystal Double Star Dangle ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813397407",
+    "Theme":"Lifestyles ",
+    "Style":"SMP025122SM1",
+    "Description":"Crystal Peace Sign ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812726507",
+    "Theme":"Lifestyles ",
+    "Style":"BMX021944s",
+    "Description":"Crown w/ 10K Gold ",
+    "Retail":"49.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811435902",
+    "Theme":"Lifestyles",
+    "Style":"SMP008735SCY",
+    "Description":"Infinity Bead w/Crystal",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811436500",
+    "Theme":"Lifestyles",
+    "Style":"SMX008610S",
+    "Description":"Slot Machine",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811389509",
+    "Theme":"Lifestyles",
+    "Style":"SMP4624S",
+    "Description":"BRK APRT BESTFRND HRT BEAD",
+    "Retail":"49.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811450307",
+    "Theme":"Lifestyles ",
+    "Style":"SMX012191SM1",
+    "Description":"4 Leaf Clover w/ Swarovski Dangle",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"813396607",
+    "Theme":"Love ",
+    "Style":"SMX025657SM2",
+    "Description":"Pink Heart CZ Bead ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813396708",
+    "Theme":"Love ",
+    "Style":"SMX025657SM1",
+    "Description":"Clear Heart CZ Bead ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813396506",
+    "Theme":"Love ",
+    "Style":"SMX025662SM1",
+    "Description":"Love CZ Bead",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813396809",
+    "Theme":"Love ",
+    "Style":"SMX025091SM1",
+    "Description":"Clear CZ puff heart bead ",
+    "Retail":"89.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Love",
+    "Style":"SMX021021SCY",
+    "Description":"Double Heart 'Be Mine' Slider",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Love",
+    "Style":"TBD",
+    "Description":"Red Heart Spinner Charm ",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Love",
+    "Style":"TBD",
+    "Description":"Double Heart Key Dangle Charm w/ Crytal",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Love",
+    "Style":"TBD",
+    "Description":"Infinity Heart Slider w/ crystal ",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Love",
+    "Style":"TBD",
+    "Description":"Heart Outline w/ red crystal ",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Love",
+    "Style":"TBD",
+    "Description":"Clear Crystal w/ heart center charm",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812691107",
+    "Theme":"Love",
+    "Style":"SMX020627S",
+    "Description":"Love Cutout Spinner",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812687907",
+    "Theme":"Love",
+    "Style":"BMX020405B",
+    "Description":"Heart Key",
+    "Retail":"69.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"812687200",
+    "Theme":"Love",
+    "Style":"BMX020720Y",
+    "Description":"Live, Laugh, Love slider ",
+    "Retail":"49.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811374305",
+    "Theme":"Love ",
+    "Style":"SMX0933SM2",
+    "Description":"Red Crystal Heart Slider ",
+    "Retail":"",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811409402",
+    "Theme":"Love",
+    "Style":"SMX003060S",
+    "Description":"I LOVE YOU SIGN CHARM",
+    "Retail":"24.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811356409",
+    "Theme":"Love",
+    "Style":"SMX0679SM1",
+    "Description":"PK CRYSTAL HRT SLIDER CHARM",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811406800",
+    "Theme":"Love",
+    "Style":"SMX003083SM1",
+    "Description":" LIGHTROSE CRYSTL HRT BEAD",
+    "Retail":"64.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811296209",
+    "Theme":"Love",
+    "Style":"SMX0253SM1",
+    "Description":"RED ENAMEL HRT CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811296401",
+    "Theme":"Love",
+    "Style":"SMX0248S",
+    "Description":" DANGLE KEY CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811331709",
+    "Theme":"Love",
+    "Style":"SMX0356S",
+    "Description":" I LOVE YOU ENVELOPE CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811469701",
+    "Theme":"Love",
+    "Style":"SMP017377SCY",
+    "Description":"Hidden Message with Crystal Heart ",
+    "Retail":"44.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811442209",
+    "Theme":"Love ",
+    "Style":"SMP008682SCY",
+    "Description":"boy/girl kissing crystal dangle - FROM WEB",
+    "Retail":"59.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811465804",
+    "Theme":"Love",
+    "Style":"SMX015151S",
+    "Description":"SQUARE BOX W/LOVE (OXIDATED)",
+    "Retail":"34.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811464902",
+    "Theme":"Love",
+    "Style":"SMX0680SM4",
+    "Description":"HEART GRAD AQUAMARINE SWAROVSKI W/PLAIN TOP",
+    "Retail":"54.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"811377302",
+    "Theme":"Love",
+    "Style":"SMX1002SM1",
+    "Description":"RD/CLR CRYS DBL HRT DNGL CM",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811377504",
+    "Theme":"Love",
+    "Style":"SMX1001SM1",
+    "Description":" RED CRYS HEART WITH LOCK CM",
+    "Retail":"49.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811450903",
+    "Theme":"Love ",
+    "Style":"smp009364scy",
+    "Description":"Crystal Love Dangle ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811452806",
+    "Theme":"Love",
+    "Style":"smp013622scy",
+    "Description":"I love you for eternity' Hidden Message",
+    "Retail":"44.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811452907",
+    "Theme":"Love",
+    "Style":"smp013623scy",
+    "Description":"I love you to the moon and back' Hidden Messgae",
+    "Retail":"44.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811450701",
+    "Theme":"Love",
+    "Style":"SMX011887SCY",
+    "Description":"Heart w/ Keyholel and Swarovski",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811446208",
+    "Theme":"Love",
+    "Style":"SMX011208SM1",
+    "Description":"I love you bead w/ black & red enamel ",
+    "Retail":"44.99",
+    "Spring 2015":"Select stores"
+  },
+  {
+    "SKU":"811422904",
+    "Theme":"NFL",
+    "Style":"SMP003649S",
+    "Description":"San Francisco Dangle",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811421700",
+    "Theme":"NFL",
+    "Style":"SMP003639S",
+    "Description":"Chicago Bears Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423603",
+    "Theme":"NFL",
+    "Style":"SMP003788S",
+    "Description":"Cincinnati Bengals Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422500",
+    "Theme":"NFL",
+    "Style":"SMP003786S",
+    "Description":"Buffalo Bills Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422803",
+    "Theme":"NFL",
+    "Style":"SMP003648S",
+    "Description":"Denver Broncos Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423704",
+    "Theme":"NFL",
+    "Style":"SMP003796S",
+    "Description":"Cleveland Browns Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811424504",
+    "Theme":"NFL",
+    "Style":"SMP003795S",
+    "Description":"Tampa Bay Buccaneers Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423300",
+    "Theme":"NFL",
+    "Style":"SMP003784S",
+    "Description":"Arizona Cardinals Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811424302",
+    "Theme":"NFL",
+    "Style":"SMP003793S",
+    "Description":"San Diego Chargers Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811424009",
+    "Theme":"NFL",
+    "Style":"SMP003790S",
+    "Description":"Kansas City Chiefs Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423209",
+    "Theme":"NFL",
+    "Style":"SMP003653S",
+    "Description":"Indianapolis Colts Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422207",
+    "Theme":"NFL",
+    "Style":"SMP003646S",
+    "Description":"Dallas Cowboys Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811425608",
+    "Theme":"NFL",
+    "Style":"SMP004679S",
+    "Description":"Miami Dolphins Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423108",
+    "Theme":"NFL",
+    "Style":"SMP003652S",
+    "Description":"Philadelphia Eagles Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423401",
+    "Theme":"NFL",
+    "Style":"SMP003785S",
+    "Description":"Atlanta Falcons Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422005",
+    "Theme":"NFL",
+    "Style":"SMP003644S",
+    "Description":"New York Giants Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423906",
+    "Theme":"NFL",
+    "Style":"SMP003783S",
+    "Description":"Jacksonville Jaguars Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811424100",
+    "Theme":"NFL",
+    "Style":"SMP003791S",
+    "Description":"New York Jets Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423805",
+    "Theme":"NFL",
+    "Style":"SMP003789S",
+    "Description":"Detroit Lions Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422409",
+    "Theme":"NFL",
+    "Style":"SMP003650S",
+    "Description":"Green Bay Packers Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423502",
+    "Theme":"NFL",
+    "Style":"SMP003787S",
+    "Description":"Carolina Panthers Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422308",
+    "Theme":"NFL",
+    "Style":"SMP003647S",
+    "Description":"New England Patirots Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811424201",
+    "Theme":"NFL",
+    "Style":"SMP003792S",
+    "Description":"Oakland Raiders Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811424403",
+    "Theme":"NFL",
+    "Style":"SMP003794S",
+    "Description":"St. Louis Rams Dangle",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811421902",
+    "Theme":"NFL",
+    "Style":"SMP003641S",
+    "Description":"Baltimore Ravens Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422601",
+    "Theme":"NFL",
+    "Style":"SMP003642S",
+    "Description":"Washington Redskins Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811421801",
+    "Theme":"NFL",
+    "Style":"SMP003640S",
+    "Description":"New Orleans Saints Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811423007",
+    "Theme":"NFL",
+    "Style":"SMP003651S",
+    "Description":"Seatle Seahawks Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422106",
+    "Theme":"NFL",
+    "Style":"SMP003645S",
+    "Description":"Pittsburgh Steelers Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811422702",
+    "Theme":"NFL",
+    "Style":"SMP003643S",
+    "Description":"Houston Texans Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811424605",
+    "Theme":"NFL",
+    "Style":"SMP003797S",
+    "Description":"Tennessee Titans Dangle ",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811425709",
+    "Theme":"NFL",
+    "Style":"SMP003798S",
+    "Description":"Minnesota Vikings Dangle",
+    "Retail":"69.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428402",
+    "Theme":"NFL",
+    "Style":"SMX003826S",
+    "Description":"San francisco Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811425800",
+    "Theme":"NFL",
+    "Style":"SMX003828S",
+    "Description":"Chicago Bears Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427006",
+    "Theme":"NFL",
+    "Style":"SMX003805S",
+    "Description":"Cincinnati Bangals Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426105",
+    "Theme":"NFL",
+    "Style":"SMX003803S",
+    "Description":"Buffal Bills Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427208",
+    "Theme":"NFL",
+    "Style":"SMX003824S",
+    "Description":"Denver Broncos Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427107",
+    "Theme":"NFL",
+    "Style":"SMX003806S",
+    "Description":"Cleveland Browns Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428408",
+    "Theme":"NFL",
+    "Style":"SMX003814S",
+    "Description":"Tampa Bay Buccaneers Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426701",
+    "Theme":"NFL",
+    "Style":"SMX003801S",
+    "Description":"Arizona Cardinals Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428301",
+    "Theme":"NFL",
+    "Style":"SMX003812S",
+    "Description":"Sand Diego Chargers Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427703",
+    "Theme":"NFL",
+    "Style":"SMX003809S",
+    "Description":"Kansas City Chiefs Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427501",
+    "Theme":"NFL",
+    "Style":"SMX003835S",
+    "Description":"Indianapolis Colts Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426206",
+    "Theme":"NFL",
+    "Style":"SMX003822S",
+    "Description":"Dallas Cowboys Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427804",
+    "Theme":"NFL",
+    "Style":"SMX004678S",
+    "Description":"Miami Dolphins Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428109",
+    "Theme":"NFL",
+    "Style":"SMX003834S",
+    "Description":"Philadelphia Eagles Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426802",
+    "Theme":"NFL",
+    "Style":"SMX003802S",
+    "Description":"Atlanta Falcons Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426509",
+    "Theme":"NFL",
+    "Style":"SMX003799S",
+    "Description":"New York Giants Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427602",
+    "Theme":"NFL",
+    "Style":"SMX003800S",
+    "Description":"Jacksonville Jaguars Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428008",
+    "Theme":"NFL",
+    "Style":"SMX003808S",
+    "Description":"New York Jets Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427309",
+    "Theme":"NFL",
+    "Style":"SMX003807S",
+    "Description":"Detroit Lions Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426307",
+    "Theme":"NFL",
+    "Style":"SMX003827S",
+    "Description":"Gree Bay Packers Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426903",
+    "Theme":"NFL",
+    "Style":"SMX003804S",
+    "Description":"Carolina Panthers Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426408",
+    "Theme":"NFL",
+    "Style":"SMX003823S",
+    "Description":"New England Patriots Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428200",
+    "Theme":"NFL",
+    "Style":"SMX003811S",
+    "Description":"Oakland Raiders Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428604",
+    "Theme":"NFL",
+    "Style":"SMX003813S",
+    "Description":"St. Louis Rams Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426004",
+    "Theme":"NFL",
+    "Style":"SMX003829S",
+    "Description":"Baltimore Ravens Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428907",
+    "Theme":"NFL",
+    "Style":"SMX003820S",
+    "Description":"Washington Redskins Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811425901",
+    "Theme":"NFL",
+    "Style":"SMX003832S",
+    "Description":"New Orleans Saints Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428503",
+    "Theme":"NFL",
+    "Style":"SMX003831S",
+    "Description":"Seattle Seahawks Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811426600",
+    "Theme":"NFL",
+    "Style":"SMX003821S",
+    "Description":"Pittsburgh Steelers Football",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427400",
+    "Theme":"NFL",
+    "Style":"SMX003830S",
+    "Description":"Houston Texans Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811428806",
+    "Theme":"NFL",
+    "Style":"SMX003815S",
+    "Description":"Tennessee Titans Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811427905",
+    "Theme":"NFL",
+    "Style":"SMX003810S",
+    "Description":"Minnesota Vikings Football ",
+    "Retail":"59.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431600",
+    "Theme":"NFL",
+    "Style":"SMP009041S",
+    "Description":"San Francisco Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433402",
+    "Theme":"NFL",
+    "Style":"SMP009059S",
+    "Description":"Chicago Bears Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432107",
+    "Theme":"NFL",
+    "Style":"SMP009046S",
+    "Description":"Cincinnati Bangals Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433806",
+    "Theme":"NFL",
+    "Style":"SMP009064S",
+    "Description":"Buffalo Bills Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811434202",
+    "Theme":"NFL",
+    "Style":"SMP009068S",
+    "Description":"Denver Broncos Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431206",
+    "Theme":"NFL",
+    "Style":"SMP009036S",
+    "Description":"Cleveland Browns Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433008",
+    "Theme":"NFL",
+    "Style":"SMP009055S",
+    "Description":"Tampa Bay Buccaneers Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431105",
+    "Theme":"NFL",
+    "Style":"SMP009063S",
+    "Description":"Arizona Cardinals Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432905",
+    "Theme":"NFL",
+    "Style":"SMP009054S",
+    "Description":"San Diego Chargers Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433907",
+    "Theme":"NFL",
+    "Style":"SMP009065S",
+    "Description":"Kansas City Chiefs Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431307",
+    "Theme":"NFL",
+    "Style":"SMP009038S",
+    "Description":"Indianapolis Colts Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432602",
+    "Theme":"NFL",
+    "Style":"SMP009051S",
+    "Description":"Dallas Cowboys Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432208",
+    "Theme":"NFL",
+    "Style":"SMP009047S",
+    "Description":"Miami Dolphins Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433109",
+    "Theme":"NFL",
+    "Style":"SMP009056S",
+    "Description":"Philadelphia Eagles Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811434101",
+    "Theme":"NFL",
+    "Style":"SMP009067S",
+    "Description":"Atlanta Falcons Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432400",
+    "Theme":"NFL",
+    "Style":"SMP009049S",
+    "Description":"New York Giants Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433604",
+    "Theme":"NFL",
+    "Style":"SMP009061S",
+    "Description":"Jacksonville Jaguars Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432006",
+    "Theme":"NFL",
+    "Style":"SMP009045S",
+    "Description":"New York Jets Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431408",
+    "Theme":"NFL",
+    "Style":"SMP009039S",
+    "Description":"Detroit Lions Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433503",
+    "Theme":"NFL",
+    "Style":"SMP009060S",
+    "Description":"Green Bay Packers Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432703",
+    "Theme":"NFL",
+    "Style":"SMP009052S",
+    "Description":"Carolina Panthers Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433301",
+    "Theme":"NFL",
+    "Style":"SMP009058S",
+    "Description":"New England Patriots Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432501",
+    "Theme":"NFL",
+    "Style":"SMP009050S",
+    "Description":"Oakland Raiders Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433705",
+    "Theme":"NFL",
+    "Style":"SMP009062S",
+    "Description":"St. Louis Rams Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432804",
+    "Theme":"NFL",
+    "Style":"SMP009053S",
+    "Description":"Baltimore Ravens Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431903",
+    "Theme":"NFL",
+    "Style":"SMP009044S",
+    "Description":"Washington Redskins Helmut",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811432309",
+    "Theme":"NFL",
+    "Style":"SMP009048S",
+    "Description":"New Orleans Saints Helmut",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431701",
+    "Theme":"NFL",
+    "Style":"SMP009042S",
+    "Description":"Seattle Seahawks Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431509",
+    "Theme":"NFL",
+    "Style":"SMP009040S",
+    "Description":"Pittsburgh Steelers Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811434000",
+    "Theme":"NFL",
+    "Style":"SMP009066S",
+    "Description":"Houston Texans Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811431802",
+    "Theme":"NFL",
+    "Style":"SMP009043S",
+    "Description":"Tennessee Titans Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"811433200",
+    "Theme":"NFL",
+    "Style":"SMP009057S",
+    "Description":"Minnesota Vikings Helmut ",
+    "Retail":"89.99",
+    "Spring 2015":"SELECT STORES"
+  },
+  {
+    "SKU":"813397104",
+    "Theme":"Occasions",
+    "Style":"SMX023786SCY",
+    "Description":"Good Luck bead with Crystal ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812776502",
+    "Theme":"Occasions",
+    "Style":"SMP020622S",
+    "Description":"Happy Birthday Hidden Message Dangle Charm",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811389600",
+    "Theme":"Occasions",
+    "Style":"SMX1121S",
+    "Description":"Happy Birthday Bead",
+    "Retail":"34.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811357209",
+    "Theme":"Occasions",
+    "Style":"SMX0711SM1",
+    "Description":"HAPPY ANNIVERSARY CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811302900",
+    "Theme":"Occasions",
+    "Style":"SMX0221S",
+    "Description":"CRYSTAL GRAD CAP CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811414907",
+    "Theme":"Occasions",
+    "Style":"SMX0365S",
+    "Description":" ENML BOARD(1+2=3) CHRM",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812692301",
+    "Theme":"Occupations",
+    "Style":"SMX021707SM1",
+    "Description":"Police Badge ",
+    "Retail":"44.99",
+    "Spring 2015":"Retest"
+  },
+  {
+    "SKU":"811381906",
+    "Theme":"Occupations",
+    "Style":"SMX1119S",
+    "Description":"COMB SCISSOR&LOVEKNOT BEAD",
+    "Retail":"29.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811339504",
+    "Theme":"Occupations",
+    "Style":"SMX0544SM1",
+    "Description":"NURSE CRYSTAL CHARM",
+    "Retail":"44.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"813397801",
+    "Theme":"Patriotic",
+    "Style":"SMX023787S",
+    "Description":"Army Wife Heart Charm ",
+    "Retail":"34.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813400405",
+    "Theme":"Patriotic",
+    "Style":"SMP017918SM1",
+    "Description":"Green Glitter Army Talkie ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813398904",
+    "Theme":"Patriotic",
+    "Style":"SMX025942S",
+    "Description":"American Flag Heart ",
+    "Retail":"39.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811380207",
+    "Theme":"Patriotic",
+    "Style":"SMX1092SM1",
+    "Description":"RED/WHT/BLU CRYSTAL FLAG CM",
+    "Retail":"54.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811364405",
+    "Theme":"Patriotic",
+    "Style":"SMX0756SM1",
+    "Description":"RD/WHT/BL ENML FLAG DNGL CM",
+    "Retail":"19.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"813400506",
+    "Theme":"Seasonal ",
+    "Style":"LTS1219TOP",
+    "Description":"Reindeer Locket ",
+    "Retail":"59.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399401",
+    "Theme":"Seasonal ",
+    "Style":"SMX026095S",
+    "Description":"Sleigh ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399300",
+    "Theme":"Seasonal ",
+    "Style":"SMP025816SOX",
+    "Description":"Ornamet ",
+    "Retail":"29.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399108",
+    "Theme":"Seasonal ",
+    "Style":"SMX025881SM1",
+    "Description":"Christmas Tree",
+    "Retail":"39.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399007",
+    "Theme":"Seasonal ",
+    "Style":"SMX025884SM4",
+    "Description":"Merry Christmas Slider ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813399209",
+    "Theme":"Seasonal ",
+    "Style":"SMX025888SM1",
+    "Description":"Santa ",
+    "Retail":"49.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811340809",
+    "Theme":"Seasonal",
+    "Style":"SMX0456SM3",
+    "Description":" CRYSTL CHRISTMAS TREE CHRM",
+    "Retail":"49.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811340708",
+    "Theme":"Seasonal",
+    "Style":"SMX0543SM1",
+    "Description":"SNOWFLAKE CRYSTAL CHARM",
+    "Retail":"59.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811303902",
+    "Theme":"Stoppers",
+    "Style":"SMX0227S",
+    "Description":"STRIPED STOPPER CHARM",
+    "Retail":"24.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811303801",
+    "Theme":"Stoppers",
+    "Style":"SMX0226S",
+    "Description":"CRISS CROSS STOPPER CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811331608",
+    "Theme":"Stoppers",
+    "Style":"SMX0483S",
+    "Description":" LOVE KNOT STOPPER CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811416205",
+    "Theme":"Stoppers",
+    "Style":"SMX003269S",
+    "Description":"NUB STOPPER BEAD CHRM",
+    "Retail":"24.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811304308",
+    "Theme":"Stoppers",
+    "Style":"SMX0233S",
+    "Description":"HP STOPPER CHARM",
+    "Retail":"24.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811297100",
+    "Theme":"Stoppers",
+    "Style":"SMX0252S",
+    "Description":"BASKETWEAVE STOPPR CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811384003",
+    "Theme":"Stoppers",
+    "Style":"SMX1105S",
+    "Description":" TWO BEAD HRT DESIGN W/CHAIN",
+    "Retail":"69.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"813398308",
+    "Theme":"Silver/Gold  ",
+    "Style":"SRL1130TKYR-TOP",
+    "Description":"Wedding Rings locket w/ 10K gold",
+    "Retail":"69.99",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"812687907",
+    "Theme":"Silver/Gold ",
+    "Style":"BMX020405B",
+    "Description":"Heart Key",
+    "Retail":"69.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"812687200",
+    "Theme":"Silver/Gold ",
+    "Style":"BMX020720Y",
+    "Description":"Live, Laugh, Love slider ",
+    "Retail":"49.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"812726507",
+    "Theme":"Silver/Gold ",
+    "Style":"BMX021944s",
+    "Description":"Crown w/ 10K Gold ",
+    "Retail":"49.99",
+    "Spring 2015":"EXPAND ALL"
+  },
+  {
+    "SKU":"320642109",
+    "Theme":"Timebeads",
+    "Style":"TB1PI1",
+    "Description":"SS pink face time bead ",
+    "Retail":"99.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"281710602",
+    "Theme":"Timebeads",
+    "Style":"TB1WH1",
+    "Description":"SS white face time bead ",
+    "Retail":"99.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"281710804",
+    "Theme":"Timebeads",
+    "Style":"TB2WH3",
+    "Description":"SS round time bead with crystal ",
+    "Retail":"99.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"281799700",
+    "Theme":"Timebeads",
+    "Style":"TB6P12",
+    "Description":"SS Pink dangle timebead with pink crystal ",
+    "Retail":"99.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"281799801",
+    "Theme":"Timebeads",
+    "Style":"TB7HA1",
+    "Description":"SS heart dangle timebead with red crystal ",
+    "Retail":"99.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"281799902",
+    "Theme":"Timebeads",
+    "Style":"TB8HS2",
+    "Description":"SS heart dangle timebead with white cyrstal ",
+    "Retail":"99.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"281868303",
+    "Theme":"Timebeads",
+    "Style":"TB9PI1",
+    "Description":"SS owl timebead with pink",
+    "Retail":"99.99",
+    "Spring 2015":"Store Select"
+  },
+  {
+    "SKU":"811297706",
+    "Theme":"Travel",
+    "Style":"SMX0166S",
+    "Description":"EIFFELL TOWER CHARM",
+    "Retail":"34.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"812688505",
+    "Theme":"Travel",
+    "Style":"SMX018988SM1",
+    "Description":"Crystal Starfish ",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811302708",
+    "Theme":"Travel",
+    "Style":"SMX0146S",
+    "Description":"ANCHOR CHARM",
+    "Retail":"29.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"JEWELRY",
+    "Theme":"",
+    "Style":"",
+    "Description":"",
+    "Retail":"",
+    "Spring 2015":""
+  },
+  {
+    "SKU":"811390400",
+    "Theme":"Bracelets",
+    "Style":"SFC0729S75",
+    "Description":"Palmier w/CM Dngl Heart",
+    "Retail":"49.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811437007",
+    "Theme":"Bracelets",
+    "Style":"SMB009747SM18",
+    "Description":"CRYSTL SNOWFLKE 8\"STARTR BR",
+    "Retail":"139",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811420809",
+    "Theme":"Bracelets",
+    "Style":"SMB003673S75",
+    "Description":"BEST MOM STARTER BR 7.5IN",
+    "Retail":"119",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811420900",
+    "Theme":"Bracelets",
+    "Style":"SMB003673S8",
+    "Description":"BEST MOM STARTER BR 8IN",
+    "Retail":"119",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812693404",
+    "Theme":"Bracelets",
+    "Style":"smb021778s10",
+    "Description":"Silver Bolo Bracelet ",
+    "Retail":"69.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"812755700",
+    "Theme":"Bracelets",
+    "Style":"BMB021778b10",
+    "Description":"Bolo Bracelet with Gold ",
+    "Retail":"99.99",
+    "Spring 2015":"Retest"
+  },
+  {
+    "SKU":"812693303",
+    "Theme":"Bracelets",
+    "Style":"SSG019761S825",
+    "Description":"Hook Bangle ",
+    "Retail":"69.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811421104",
+    "Theme":"Bracelets",
+    "Style":"SMB003677SM18",
+    "Description":"12MM CRYSTAL STARTER BR 8IN",
+    "Retail":"149",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811421003",
+    "Theme":"Bracelets",
+    "Style":"SMB003675S8",
+    "Description":"I LUV U HRT STARTER BR 8IN",
+    "Retail":"119",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811477506",
+    "Theme":"Bracelets ",
+    "Style":"SMB017790SCY75",
+    "Description":"DSN FRZN 7.5\"CRYS SNWFLK BR",
+    "Retail":"99.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"811360700",
+    "Theme":"Bracelets",
+    "Style":"SFC0288S6",
+    "Description":"6\" HP LOBSTER CLASP BRACE",
+    "Retail":"43.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811342409",
+    "Theme":"Bracelets",
+    "Style":"SFC0288S7",
+    "Description":"7IN BR LOB CLSP&HRT DANGLE",
+    "Retail":"43.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811299801",
+    "Theme":"Bracelets",
+    "Style":"SFC0288S75",
+    "Description":"HP 7.5IN BRAC LOB CLASP",
+    "Retail":"43.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811300007",
+    "Theme":"Bracelets",
+    "Style":"SFC0288S8",
+    "Description":"SV HP 8 IN BRAC LOB CLASP",
+    "Retail":"43.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811342500",
+    "Theme":"Bracelets",
+    "Style":"SFC0288S9",
+    "Description":"SV9IN BR LOB CLSP&HRT DANGLE",
+    "Retail":"43.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811301201",
+    "Theme":"Bracelets",
+    "Style":"SFC0292S75",
+    "Description":"SV HP 7.5IN BRAC HRT CLASP",
+    "Retail":"74.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811301403",
+    "Theme":"Bracelets",
+    "Style":"SFC0292S8",
+    "Description":" SV HP 8IN BRAC HRT CLASP",
+    "Retail":"74.99",
+    "Spring 2015":"In Test/Mid"
+  },
+  {
+    "SKU":"811342308",
+    "Theme":"Bracelets",
+    "Style":"SFC0292S85",
+    "Description":" SV HP 8.5IN BRAC HRT CLASP",
+    "Retail":"74.99",
+    "Spring 2015":"Only in Test"
+  },
+  {
+    "SKU":"811457302",
+    "Theme":"Bracelets",
+    "Style":"SMG013414S75",
+    "Description":"Bangle w/ oval clasp",
+    "Retail":"64.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"811300209",
+    "Theme":"Necklaces",
+    "Style":"SFC0288S18",
+    "Description":"SV HP 18-20INADJ NK LOB CLASP",
+    "Retail":"119.99",
+    "Spring 2015":"All Stores"
+  },
+  {
+    "SKU":"TBD",
+    "Theme":"Necklaces",
+    "Style":"TBD",
+    "Description":"Bolo Necklace ",
+    "Retail":"TBD",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"811369608",
+    "Theme":"Necklaces",
+    "Style":"SMF5076S20",
+    "Description":"TSVCM POPCRN BEAD LARIAT 18IN NK",
+    "Retail":"89.99",
+    "Spring 2015":"Tiered from Base"
+  },
+  {
+    "SKU":"813384702",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"This sterling silver charm from Charmed Memories® features the Star Wars TM logo against a background of white enamel. ® & TM Lucasfilm Ltd.",
+    "Retail":"79.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813383508",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"This sterling silver dangle charm from Charmed Memories® features the phrase \"May the Force Be with You\" on two round discs. The Star Wars TM logo adorns the topper. ® & TM Lucasfilm Ltd.",
+    "Retail":"79.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813383306",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"This sterling silver dangle charm from Charmed Memories® features the Star Wars TM logo on a disc decorated with black crystals. The Rebel Alliance symbol adorns the topper. ® & TM Lucasfilm Ltd.",
+    "Retail":"79.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813384500",
+    "Theme":"Bracelets",
+    "Style":"",
+    "Description":"his 7.5-inch Charmed Memories® bracelet features two discs, one with the Star Wars TM logo and the other with the symbol for the Rebel Alliance. The bracelet is styled in sterling silver. ® & TM Lucasfilm Ltd.",
+    "Retail":"79.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813383801",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"This R2-D2 charm from Charmed Memories® is definitely the droid you're looking for. The Star Wars TM charm is styled in sterling silver and decorated with enamel. ® & TM Lucasfilm Ltd.",
+    "Retail":"79.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813383700",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"Represent the Rebel Alliance with this sterling silver dangle charm from Charmed Memories®. The Star Wars TM logo adorns the topper. ® & TM Lucasfilm Ltd.",
+    "Retail":"69.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813400102",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"This sterling silver Darth Vader charm makes the perfect addition to her Star WarsTM-themed Charmed Memories® bracelet. ® & TM Lucasfilm Ltd.",
+    "Retail":"49.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813383407",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"This Star Wars TM charm from Charmed Memories® features a Stormtrooper helmet crafted of sterling silver. ® & TM Lucasfilm Ltd.",
+    "Retail":"49.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813384106",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"Show your support for the Rebel Alliance with this sterling silver Star Wars TM charm from Charmed Memories®. Black enamel completes the design. ® & TM Lucasfilm Ltd.",
+    "Retail":"49.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813383609",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"Black cubic zirconia decorates this sterling silver charm from Charmed Memories®. The bold charm is a perfect addition to your Star Wars TM themed bracelet. ® & TM Lucasfilm Ltd.",
+    "Retail":"49.99 ",
+    "Spring 2015":"New"
+  },
+  {
+    "SKU":"813384005",
+    "Theme":"Brand-StarWars",
+    "Style":"",
+    "Description":"From Charmed Memories®, this sterling silver charm is decorated with shimmery blue and white Murano glass, making it the perfect accent to your Star Wars TM themed bracelet. ® & TM Lucasfilm Ltd.",
+    "Retail":"34.99 ",
+    "Spring 2015":"New"
+  }
+]

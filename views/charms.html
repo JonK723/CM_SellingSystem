@@ -1,0 +1,52 @@
+<h3 class="text-center" style="color: #B07760;">
+  <span ng-switch="currentCategory[0].Theme">
+    <strong ng-switch-when="Brand-JS">Open Hearts Collection</strong>
+    <strong ng-switch-when="Brand-M/C">Mother and Child Collection</strong>
+    <strong ng-switch-when="Brand-Disney">Disney Collection</strong>
+    <strong ng-switch-when="Brand-StarWars">Star Wars<sup><small>TM</small></sup> Collection</strong>
+    <strong ng-switch-when="Stoppers">Stoppers</strong>
+    <strong ng-switch-when="Necklaces">Necklaces</strong>
+    <strong ng-switch-default>
+      <span ng-if="currentCategory[0].Description.indexOf('SPACER') >= 0">Spacers</span>
+      <span ng-if="currentCategory[0].Description.indexOf('Bolo') >= 0">Bolo Bracelets</span>
+      <span ng-if="currentCategory[0].Description.indexOf('Bangle') >= 0">Bangles</span>
+      <span ng-if="currentCategory[0].Description.indexOf('STARTER') >= 0">Starter Bracelets</span>
+      <span ng-if="currentCategory[0].Theme === 'Animals'">General Collection</span>
+      <span ng-if="(currentCategory[0].Description.indexOf('STARTER') < 0) && (currentCategory[0].Description.indexOf('Bangle') < 0) && (currentCategory[0].Description.indexOf('Bolo') < 0) && (currentCategory[0].Description.indexOf('SPACER') < 0) && (currentCategory[0].Theme !== 'Animals')">
+          {{ currentCategory[0].Theme }} Collection
+      </span>
+    </strong>
+  </span>
+</h3>
+<div class="row">
+  <div class="col-xs-11">
+    <div dir-paginate="item in currentCategory | itemsPerPage: 8">
+      <sj-charm charm-info="item" toggle-to-favorites="toggleToFavorites(item)" update-quantity="updateQuantity(item)" quantity="1"></sj-charm>
+    </div>
+  </div>
+</div>
+
+<br>
+
+<div class="row footer text-center">
+  <dir-pagination-controls max-size="5"></dir-pagination-controls>
+
+  <span class="pull-right" style="padding-right: 60px; margin-top: 10px;">
+    <a ng-href="#/select-charms" style="color: #B07760;" ng-if="isCharm == true"><strong>VIEW ALL CATEGORIES</strong></a>
+
+    <span ng-if="currentCategory[0].Theme == 'Stoppers'">
+      <a href="#/finish-charms" style="color: #B07760;"><strong>VIEW FINISHING TOUCHES</strong></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#/select-charms/spacer" style="color: #B07760;"><strong>VIEW SPACERS</strong></a>
+    </span>
+
+    <span ng-if="currentCategory[0].Description.indexOf('SPACER') >= 0 ">
+      <a href="#/finish-charms" style="color: #B07760;"><strong>VIEW FINISHING TOUCHES</strong></a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="#/select-charms/stopper" style="color: #B07760;"><strong>VIEW STOPPERS</strong></a>
+    </span>
+
+    <a ng-href="#/start-bracelet" style="color: #B07760;" ng-if="currentCategory[0].Theme == 'Bracelets'"><strong>VIEW ALL BRACELETS</strong></a>
+    <a ng-href="#/start-bracelet" style="color: #B07760;" ng-if="currentCategory[0].Theme == 'Necklaces'"><strong>VIEW ALL BRACELETS</strong></a>
+  </span>
+</div>
