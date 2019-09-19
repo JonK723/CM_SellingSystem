@@ -23,7 +23,7 @@
 
   $pageOutput .= "<tr><td><h3>Total Price: $" . $totalPrice . "</h3></td></tr></table></body></html>";
 
-  $sendgrid = new SendGrid('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');
+  $sendgrid = new SendGrid('SECRET_KEY');
 
   $sgEmail = new SendGrid\Email();
   $sgEmail
